@@ -177,6 +177,10 @@
 		{
 			"Name": "MetaHumanRuntime",
 			"Enabled": true
+		},
+		{
+			"Name": "CinematicToolkit",
+			"Enabled": true
 		}
 	]
 }
